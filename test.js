@@ -98,7 +98,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(10, 10, 12, 0.8);
+    background: rgba(10, 10, 12, 1);
     backdrop-filter: blur(30px);
     -webkit-backdrop-filter: blur(30px);
     padding: 24px;
