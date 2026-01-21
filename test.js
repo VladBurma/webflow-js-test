@@ -98,9 +98,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(10, 10, 12, 0.5);
-    backdrop-filter: blur(15px);
-    -webkit-backdrop-filter: blur(15px);
+    background: rgba(10, 10, 12, 0.8);
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
     padding: 24px;
     font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   `;
